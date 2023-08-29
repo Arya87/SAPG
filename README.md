@@ -30,4 +30,4 @@ python train.py suite=dmcontrol task=quadruped-run
 
 ## Acknowledgements
 
-Our code is based on [ModDem](https://nicklashansen.github.io/modemrl) .
+Our code is based on [MoDem](https://nicklashansen.github.io/modemrl) .
