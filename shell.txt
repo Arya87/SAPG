@@ -1,0 +1,9 @@
+python train.py suite=mw task=mw-assembly seed=5
+python train.py suite=mw task=mw-assembly seed=6
+python train.py suite=mw task=mw-assembly seed=7
+python train.py suite=mw task=mw-pick-place-wall seed=5
+python train.py suite=mw task=mw-pick-place-wall seed=8
+python train.py suite=mw task=mw-pick-place-wall seed=10
+python train.py suite=mw task=mw-stick-pull seed=5
+python train.py suite=mw task=mw-stick-pull seed=6
+python train.py suite=mw task=mw-stick-pull seed=9
