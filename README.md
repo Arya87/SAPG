@@ -1,6 +1,6 @@
-# Self-Adaptive Policy Guiding for Visual Model-based Reinforcement Learning with Sparse Rewards
+# Self-Adaptive Policy Guiding (SAPG): Enhancing Model-based Reinforcement Learning with Expert Demonstrations for sparse-rewarded Tasks
 
-Original PyTorch implementation of Self-Adaptive Policy Guiding for Visual Model-based Reinforcement Learning with Sparse Rewards
+Original PyTorch implementation of Self-Adaptive Policy Guiding (SAPG): Enhancing Model-based Reinforcement Learning with Expert Demonstrations for sparse-rewarded Tasks.
 
 
 
